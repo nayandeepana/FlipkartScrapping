@@ -8,7 +8,9 @@ This is a Python script that allows you to scrape product data from Flipkart, an
 Requirements-
 
 1)Python 3.x
+
 2)BeautifulSoup4
+
 3)requests
 
 Installation
